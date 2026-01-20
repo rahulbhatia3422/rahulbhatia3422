@@ -99,7 +99,7 @@ I have industry experience at **Capgemini India Pvt. Ltd.**, where I contributed
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/rahul-bhatia-6ba321207/)  
+- 💼 LinkedI: https://www.linkedin.com/in/rahul-bhatia-6ba321207/ 
 - 💻 GitHub: https://github.com/rahulbhatia3422  
 - 🧠 LeetCode: https://leetcode.com/Rahul_Bhatia_03  
 - 📧 Email: rahulbhatia37293@gmail.com  
