@@ -110,5 +110,7 @@ I have industry experience at **Capgemini India Pvt. Ltd.**, where I contributed
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbhatia3422&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbhatia3422&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=rahulbhatia3422&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 
 ⭐ *“Building reliable systems through automation, learning, and continuous improvement.”*
